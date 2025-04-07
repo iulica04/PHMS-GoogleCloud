@@ -9,6 +9,9 @@ PHMS/service-account.json
 PHMS/appsettings.json
 PHMS/publish/appsettings.json
 PHMS/publish/credentials.json
+PHMS/publish/service-account.json
+PHMS/credentials.json
+PHMS/credentials.json
 
 # Build results
 [Dd]ebug/
