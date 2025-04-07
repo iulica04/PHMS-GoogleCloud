@@ -1,0 +1,6 @@
+@PHMS_HostAddress = http://localhost:5018
+
+GET {{PHMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
